@@ -37,7 +37,7 @@
 
 !feedly
 ||cloud.feedly.com
-||s3.feedly.com/img/follows/feedly-follow-rectangle-volume
+||s3.feedly.com/img/follows/feedly-follow-rectangle
 
 !カスタムボタン
 !##a[href*="b.hatena.ne.jp/add"]
